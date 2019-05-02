@@ -33,9 +33,9 @@ I grant that signified ideas are immutable, insofar as one cannot change what so
 While "adjacency" implies nearness on a cartesian coordinate system, it does not necessary spatial. Even so, visuospatial manipulation of symbols is the most obvious example of adjacencies:
 
 ##### Example 2
-> The American flag is a symbol for American ideals.  An image of a gelatin RX capsul is an icon that signifies drugs.  Now imagine the pill is superimposed over the American flag. These two signs are adjacent to one another, such that I am seeing both at the same time.  I have both signified ideas in my had.
+> The American flag is a symbol for American ideals.  An image of a gelatin RX capsul is an icon that signifies drugs.  Now imagine the pill is superimposed over the American flag. These two signs are adjacent to one another, such that I am seeing both at the same time.  I interpret both signs, and I have both signified ideas in my head at once.
 >
-> Now, I am trying to interpret the adjacency.  The proximity, that one is literally inside the visual bounds of the othjer, may lead me to try to understand the relationship between the signified RX drugs and the signified US ideologies.
+> Now I am trying to interpret the adjacency.  I am trying to understand the reason someone created this adjacency. The proximity, that one is literally inside the visual bounds of the other, leads me to try to understand the relationship between the signified RX drugs and the signified US ideologies.
 
 
 The second difference is that I consider certain non-sign stimuli that invoke brainstates semiotic material, too.  Examples include the color yellow, which some studies suggest make babies cry.  That the color invokes some emotion- perhaps through primitive, lower-order brain structures- in an observant makes it semiotic material.  However, because it doesn't have an associated signifier it is not a sign.  Other examples include binural beats, which are not signs, yet still invoke affective brain states.
