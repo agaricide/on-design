@@ -12,12 +12,12 @@
 
 Semiotics is an investigation into how meaning is created and communicated.[¹](https://signsalad.com/our-thoughts/what-is-semiotics/) My usage of "semiotics" in "semiotic material" is in reference to [Percian Semiotics.](https://plato.stanford.edu/entries/peirce-semiotics/) Pierce said the process of communicating is composed of 3 parts: a sign (or _signifier_), an object or idea (or _signified_), and the person recieving the sign (or _interpretant_).
 
-The American flag is a signifier for the country of America.  As an American, through shared cultural conditioning, it is also a signifier for American ideals: life, liberty, and the persuit of happyiness (classical libertarianism).  The flag is the signifier, America & it's ideals are the signified, and I am the interpretant.
+##### Example 1:
+> The American flag is a signifier for the country of America.  As an American, through shared cultural conditioning, it is also a signifier for American ideals: life, liberty, and the persuit of happyiness (classical libertarianism).  The flag is the signifier, America & it's ideals are the signified, and I am the interpretant.
 
 **Semiotic material** is the fundamental [substrate](<https://en.wikipedia.org/wiki/Substrate_(chemistry)>) of all design. Like organic chemistry, it is the subject that is being modified. Semiotic material is anything that, when percieved by a human interpretant, causes a change of brain state.
 
-##### Example 1:
-> All signifiers are semiotic material. Anything that is capable of being interpreted must be semiotic material, since the act of intepreting or percepting is itself predicated on a change of brain state.
+All signifiers are semiotic material. Anything that is capable of being interpreted must be semiotic material, since the act of intepreting or percepting is itself predicated on a change of brain state.
 
 The first difference, however, is that the signified entities can be semiotic material, too. My argument is as follows:
 
