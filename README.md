@@ -28,7 +28,7 @@ The first difference, however, is that the signified entities can be semiotic ma
 
 **.: The adjacency of signified ideas may itself be interpreted**
 
-I grant that signified ideas are immutable, insofar as one cannot change what some sign means for some person. However, I assert that the signified ideas can be manipulated, via symbols, such that an interpretant is simultaneously aware of 2 or more signified ideas simultaneously. I will hencefore call this an "adjacency". Adjacencies themselves be percieved and interpreted by the interpretant.
+I grant that signified ideas are immutable, insofar as one cannot change what some sign means for some person. However, I assert that the signified ideas can be manipulated, via signs, such that an interpretant is simultaneously aware of 2 or more signified ideas simultaneously. I will hencefore call this an "adjacency". Adjacencies themselves be percieved and interpreted by the interpretant.
 
 While "adjacency" implies nearness on a cartesian coordinate system, it does not necessary spatial. Even so, visuospatial manipulation of symbols is the most obvious example of adjacencies:
 
