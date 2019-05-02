@@ -4,7 +4,7 @@
 
 ## Objectives
 
-- Create a generalizable model of design
+- Create a general model of design
 - Provide a uniform system for understanding architectural, visual, musical, & technical design (e.g. software)
 - Label the fundamental entities in the domain of design
 
