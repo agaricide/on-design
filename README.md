@@ -15,7 +15,7 @@ Semiotics is an investigation into how meaning is created and communicated.[¹](
 ##### Example 1:
 > The American flag is a signifier for the country of America.  As an American, through shared cultural conditioning, it is also a signifier for American ideals: life, liberty, and the persuit of happyiness (classical libertarianism).  The flag is the signifier, America & it's ideals are the signified, and I am the interpretant.
 
-**Semiotic material** is the fundamental [substrate](<https://en.wikipedia.org/wiki/Substrate_(chemistry)>) of all design. Like organic chemistry, it is the subject that is being modified. Semiotic material is anything that, when percieved by a human interpretant, causes a change of brain state.  All signifiers are semiotic material. Any sign that is interpreted must be semiotic material, since the act of intepreting or percepting is itself predicated on a change of brain state.
+**Semiotic material** is the fundamental [substrate](<https://en.wikipedia.org/wiki/Substrate_(chemistry)>) of all design. Like substrate in organic chemistry, it is the subject that is being modified. Semiotic material is anything that, when percieved by a human interpretant, causes a change of brain state.  All signifiers are semiotic material. Any sign that is interpreted must be semiotic material, since the act of intepreting or percepting is itself predicated on a change of brain state.
 
 The first difference between a sign and semiotic material, however, is that the signified entities can be semiotic material, too. My argument is as follows:
 
