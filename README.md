@@ -23,21 +23,21 @@ The first difference between a sign and semiotic material, however, is that the 
 - Signs can be interpeted by an interpretant
 - Signs signify ideas
 - 2 Signs may be put adjacent to one another, such that an interpetant is interpeting 2 signs at the same time
-- An adjacency of signs can cause an adjacency of ideas, such that the interpetant is aware of both of the signified ideas at once
+- An adjacency of signs can cause an adjacency of ideas, such that the interpetant is aware of both the signified ideas at once
 - The interpretant may also percieve the adjacency of signified
 
 **.: The adjacency of signified ideas may itself be interpreted**
 
-I grant that signified ideas are immutable, insofar as one cannot change what some sign means for some person. However, I assert that the signified ideas can be manipulated, via signs, such that an interpretant is simultaneously aware of 2 or more signified ideas simultaneously. I will hencefore call this an "adjacency". Adjacencies themselves be percieved and interpreted by the interpretant.
+I grant that signified ideas are immutable, insofar as one cannot change what some sign means for some person. However, I assert that the signified ideas can be manipulated, via signs, such that an interpretant is simultaneously aware of 2 or more signified ideas simultaneously. I will hencefore call this an "adjacency". Adjacencies themselves can be percieved and interpreted by the interpretant.
 
-While "adjacency" implies nearness on a cartesian coordinate system, it does not necessary spatial. Even so, visuospatial manipulation of symbols is the most obvious example of adjacencies:
+While "adjacency" implies nearness on a cartesian coordinate system, it is not necessary or literally spatial. Even so, visuospatial manipulation of symbols is the most obvious example of adjacencies:
 
 ##### Example 2
-> The American flag is a symbol for American ideals.  An image of a gelatin RX capsul is an icon that signifies drugs.  Now imagine the pill is superimposed over the American flag. These two signs are adjacent to one another, such that I am seeing both at the same time.  I interpret both signs, and I have both signified ideas in my head at once.
+> The American flag is a symbol for American ideals.  An image of a gelatin RX capsul is an icon that signifies drugs.  Now imagine the capsule is superimposed over the American flag. These two signs are adjacent to one another, such that I am seeing both at the same time.  I interpret both signs, and I have both signified ideas in my head at once.
 >
-> Now I am trying to interpret the adjacency.  I am trying to understand the reason someone created this adjacency. The proximity, that one is literally inside the visual bounds of the other, leads me to try to understand the relationship between the signified RX drugs and the signified US ideologies.
+> Now I am trying to interpret the adjacency.  I am trying to understand the reason someone created this adjacency. The proximity, that one is literally inside the visual bounds of the other, leads me to extrapolate the relationship between the signified RX drugs and the signified US ideologies.
 
 
-The second difference is that I consider certain non-sign stimuli that invoke brainstates semiotic material, too.  Examples include the color yellow, which some studies suggest make babies cry.  The color is semiotic material because it invokes some emotion- perhaps through primitive, lower-order brain structures- in an observant.  However, because it doesn't have an associated signified idea it is not a sign.  Other examples include binural beats, which are not signs, yet still invoke affective brain states.
+The second difference is that I consider certain non-sign stimuli that invoke brainstates semiotic material, too.  Examples include the color yellow, which some studies suggest make babies cry.  The color is semiotic material because it invokes some emotion- perhaps through primitive, lower-order brain structures- in an observant.  However, because it doesn't have an associated signified idea, it is not a sign.  Other examples include binural beats, which are not signs, yet still invoke emotionally affective brain states.
 
 In conclussion, semiotic material is the fundamental substrate of design.  Semiotic material includes anything that transmits brainstates in an observant.  Peircian signifiers are semiotic material.  Through manipulation via adjacencies, I argue that signified ideas may be semiotic material, too.  Finally, semiotic material is also primitive, non-sign colors and tones, which affect humans' primitive brain structures to invoke emotion without signifying anything.
