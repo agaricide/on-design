@@ -35,12 +35,12 @@ While "adjacency" implies nearness on a cartesian coordinate system, it is not n
 ##### Example 2
 > The American flag is a symbol for American ideals.  An image of a gelatin RX capsul is an icon that signifies drugs.  Now imagine the capsule is superimposed over the American flag. These two signs are adjacent to one another, such that I am seeing both at the same time.  I interpret both signs, and I have both signified ideas in my head at once.
 >
-> Now I am trying to interpret the adjacency.  I am trying to understand the reason someone created this adjacency. The proximity, that one is literally inside the visual bounds of the other, leads me to extrapolate the relationship between the signified RX drugs and the signified US ideologies.
+> Now I am trying to interpret the adjacency.  I am trying to understand the reason someone created this adjacency. The proximity, that one is literally inside the visual bounds of the other, leads me to extrapolate the relationship between the signified RX drugs and the signifi ed US ideologies.
 
 
 The second difference is that I consider certain non-sign stimuli that invoke brainstates semiotic material, too.  Examples include the color yellow, which some studies suggest make babies cry.  The color is semiotic material because it invokes some emotion- perhaps through primitive, lower-order brain structures- in an observant.  However, because it doesn't have an associated signified idea, it is not a sign.  Other examples include binural beats, which are not signs, yet still invoke emotionally affective brain states.
 
-In conclussion, semiotic material is the fundamental substrate of design.  Semiotic material includes anything that transmits brainstates to an observant.  Peircian signifiers are semiotic material.  Through manipulation via adjacencies, I argue that signified ideas may be semiotic material, too.  Finally, semiotic material is also primitive, non-sign colors and tones, which affect humans' primitive brain structures to invoke emotion without signifying anything.
+In conclussion, semiotic material is the fundamental substrate of design.  Semiotic material includes anything that transmits brainstates to an observant.  Peircian signifiers are semiotic material.  Through manipulation via adjacencies I argue that signified ideas may be semiotic material, too.  Finally, semiotic material is also primitive, non-sign colors and tones, which affect humans' primitive brain structures to invoke emotion without signifying anything.
 
 ## Design & Semiotic Material
 
